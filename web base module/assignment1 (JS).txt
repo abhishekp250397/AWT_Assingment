@@ -21,7 +21,7 @@ for(var c in Abhishek)
 //Que3
 console.log("----------Que3----------");
 
-var x=[1,2,"abhi","",5.55];
+var x=[1,2,"Abhi","Patil",5.55];
 for(var p=0;p<x.length;p++)
 {
     console.log(x[p]);
